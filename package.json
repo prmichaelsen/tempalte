@@ -15,7 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/prmichaelsen/tempalte.git"
   },
-  "keywords": [],
+  "keywords": [
+    "template",
+    "literal",
+    "strings",
+    "substitutions",
+    "typescript"
+  ],
   "author": {
     "name": "Patrick Michaelsen",
     "email": "patrickazusa@gmail.com",
