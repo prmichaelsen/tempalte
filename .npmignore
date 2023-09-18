@@ -6,3 +6,6 @@ tslint.json
 jest.config.js
 coverage
 README.md
+.github
+.notes
+.vscode
